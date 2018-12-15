@@ -11,7 +11,7 @@ public class ex2 {
           System.out.println("x equal or more than 10.");
       }
 
-      System.out.println(x);
+      System.out.println(x)        ;
 
 
   }
