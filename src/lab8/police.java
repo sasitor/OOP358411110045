@@ -16,7 +16,6 @@ public class police extends Person{
         System.out.println("I am police work at "+this.workCountry);
     }
 
-    // getter and setter method
     public String getPolice() {
         return workCountry;
     }
